@@ -12,10 +12,6 @@
 - RxJava2
 - RxBus
 
-![demo](/img/ezgif.com-video-to-gif.gif)
-
-[视频](https://gfycat.com/ClearcutThoughtfulBluebreastedkookaburra)
-
 [English](/README.md) | 简体中文
 
 # 截图

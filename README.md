@@ -12,10 +12,6 @@ Android screen share to pc browser over WiFi, with WebSocket.
 - RxJava2
 - RxBus
 
-![demo](/img/ezgif.com-video-to-gif.gif)
-
-[Video](https://gfycat.com/ClearcutThoughtfulBluebreastedkookaburra)
-
 English | [简体中文](/README-chs.md)
 
 # Screenshot
